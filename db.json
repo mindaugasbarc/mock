@@ -1,0 +1,6 @@
+{
+  "getLastEvents": [
+    { "executionId": "1", "eventType": "DeviceModelChangeActivated", "productCode": "i-kazkas", "message": "Indexing complete"},
+    { "executionId": "2", "eventType": "DeviceModelChangeActivated", "productCode": "i-kazkas", "message": "product imported successfully"}
+  ]
+}
