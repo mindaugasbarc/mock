@@ -1,6 +1,57 @@
 {
   "getLastEvents": [
     { "executionId": "1", "eventType": "DeviceModelChangeActivated", "productCode": "i-kazkas", "message": "Indexing complete"},
-    { "executionId": "2", "eventType": "DeviceModelChangeActivated", "productCode": "i-kazkas", "message": "product imported successfully"}
-  ]
+    { "executionId": "2", "eventType": "DeviceModelChangeActivated", "productCode": "i-kazkas2", "message": "product imported successfully"}
+  ],
+  "i-kazkas": [
+    { "executionId": "1", "eventType": "DeviceModelChangeActivated", "productCode": "i-kazkas", "message": "Indexing complete"}
+  ],
+  "mpmJson": {
+    "1": {
+      "modifier": 1111,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    "2": {
+      "modifier": 2222,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  },
+  "epJson": {
+    "1": {
+      "modifier": 1111,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    "2": {
+      "modifier": 2222,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  }
 }
