@@ -21,48 +21,52 @@
       "message": "Indexing complete"
     }
   ],
-  "mpmJson/1": {
-    "modifier": 1111,
-    "attributes": [
-      {
-        "id": 1
-      },
-      {
-        "id": 2
-      }
-    ]
-  },
-  "mpmJson/2": {
-    "modifier": 2222,
-    "attributes": [
-      {
-        "id": 1
-      },
-      {
-        "id": 2
-      }
-    ]
-  },
-  "epJson/1": {
-    "modifier": 1111,
-    "attributes": [
-      {
-        "id": 1
-      },
-      {
-        "id": 2
-      }
-    ]
-  },
-  "epJson/2": {
-    "modifier": 2222,
-    "attributes": [
-      {
-        "id": 1
-      },
-      {
-        "id": 2
-      }
-    ]
-  }
+  "mpmJson": [
+    {
+      "modifier": 1111,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "modifier": 2222,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  ],
+  "epJson": [
+    {
+      "modifier": 1111,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    },
+    {
+      "modifier": 2222,
+      "attributes": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ]
+    }
+  ]
 }
