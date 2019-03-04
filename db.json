@@ -4,13 +4,13 @@
       "executionId": "1",
       "eventType": "DeviceModelChangeActivated",
       "productCode": "i-kazkas",
-      "message": "Indexing complete"
+      "events": ["Deep Event", "Sku Associations Populated", "Eligibility Populated", "Product Eligiblity passed"]
     },
     {
       "executionId": "2",
-      "eventType": "DeviceModelChangeActivated",
+      "eventType": "AccessoryModelChangeActivated",
       "productCode": "i-kazkas2",
-      "message": "product imported successfully"
+      "events": ["Deep Event", "Sku Associations Populated", "Eligibility Populated", "Product Eligiblity passed"]
     }
   ],
   "i-kazkas": [
