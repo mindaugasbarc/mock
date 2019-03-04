@@ -13,7 +13,7 @@
       "events": ["Deep Event", "Sku Associations Populated", "Eligibility Populated", "Product Eligiblity passed"]
     }
   ],
-  "i-kazkas": [
+  "1": [
     {
       "executionId": "1",
       "eventType": "DeviceModelChangeActivated",
