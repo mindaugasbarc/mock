@@ -4,13 +4,23 @@
       "executionId": "1",
       "eventType": "DeviceModelChangeActivated",
       "productCode": "i-kazkas",
-      "events": ["Deep Event", "Sku Associations Populated", "Eligibility Populated", "Product Eligiblity passed"]
+      "events": {
+        "Deep Event": "",
+        "Sku Associations Populated": "",
+        "Eligibility Populated": "",
+        "Product Eligiblity passed": ""
+      }
     },
     {
       "executionId": "2",
       "eventType": "AccessoryModelChangeActivated",
       "productCode": "i-kazkas2",
-      "events": ["Deep Event", "Sku Associations Populated", "Eligibility Populated", "Product Eligiblity passed"]
+      "events": {
+        "Deep Event": "",
+        "Sku Associations Populated": "",
+        "Eligibility Populated": "",
+        "Product Eligiblity passed": ""
+      }
     }
   ],
   "1": [
@@ -18,12 +28,13 @@
       "executionId": "1",
       "eventType": "DeviceModelChangeActivated",
       "productCode": "i-kazkas",
-      "events": [
-        "Deep Event",
-        "Sku Associations Populated",
-        "Eligibility Populated",
-        "Product Eligiblity passed"
-      ]
+      "events":
+        {
+          "Deep Event": "",
+          "Sku Associations Populated": "",
+          "Eligibility Populated": "",
+          "Product Eligiblity passed": ""
+        }
     }
   ],
   "mpmJson": [
